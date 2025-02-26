@@ -10,7 +10,7 @@ This is a Streamlit-based movie recommender system. Due to file size limitations
 - [Docker](https://docs.docker.com/get-docker/) must be installed on your system.
 
 ## Running the Project add the below commands on your  terminal
-# To pull the image 
+### To pull the image 
 docker pull kirandunka123/movie-recommender
-# To run the image
+### To run the image
 docker run -p 8501:8501 kirandunka123/movie-recommender
