@@ -14,4 +14,5 @@ This is a Streamlit-based movie recommender system. Due to file size limitations
 docker pull kirandunka123/movie-recommender
 ### To run the image
 docker run -p 8501:8501 kirandunka123/movie-recommender
-![image](https://github.com/user-attachments/assets/e1413a78-5607-4fe3-aa92-4e7ca1e49527)
+
+
